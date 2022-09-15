@@ -2,7 +2,6 @@ const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english, spanyol} = require(`./language`)
 
-// Website Api (jgn di ganti tomlol)
 global.APIs = {
 	alfa: 'https://api.zeeoneofc.xyz',
 }
